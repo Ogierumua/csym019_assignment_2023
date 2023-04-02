@@ -1,10 +1,18 @@
-{"course_data":[
-    {
-        "depertment":"",
-        "course_Name": "",
-        
-
+{"University_Courses":[
+    {"Subejet Arae":"Nursing",
+    "Course Name":"Adult Nursing",
+    "Course Details":"Our BSc Adult Nursing course has been designed to contribute towards achieving the following United Nations Sustainable Development Goals",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+    "Fees and Funding":"UK-  Full Time: £9,250, International, Full Time: £17,250",
+    "Key Facts":[
+        {"Level":"Undergraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
     }
-]
 
+    ]
+
+}
+]
 }
