@@ -1,9 +1,34 @@
 {"University_Courses":[
-    {"Subejet Arae":"Nursing",
-    "Course Name":"Adult Nursing",
-    "Course Details":"Our BSc Adult Nursing course has been designed to contribute towards achieving the following United Nations Sustainable Development Goals",
+  {
+    "Subejet Arae":"Computing",
+    "Course Name":"Computer Science",
+    "Course Details":{
+        "Year 1": " During the first year of your  computer science degree, you will study common computer science modules such as Computer Systems, Software Engineering Fundamentals, Mathematics,  Computer Science, Web Development, Problem Solving & Programming. These will help you build a foundation base around more advanced topics  subsequent years ",
+        "Year 2": "",
+        "Year 3": ""
+
+    },
     "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
-    "Fees and Funding":"UK-  Full Time: £9,250, International, Full Time: £17,250",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
     "Key Facts":[
         {"Level":"Undergraduate",
         "Duration":"3 Years Full Time",
@@ -16,11 +41,30 @@
 },
 
 {
-    "Subejet Arae":"Computing",
-    "Course Name":"Computer Science",
-    "Course Details":"Our Computer Science BSc (Hons) degree gives you the opportunity to explore different ideas and develop innovative solutions to current issues in the computing industry.",
+    "Subejet Arae":"Humanities",
+    "Course Name":"English",
+    "Course Details":"The modules on this English BA (Hons) course are organised into distinctive strands that allow students the chance to develop their knowledge from year to year and apply skills they’ve learned across different stages. For example, in a strand called Rethinking Identities, we raise the question of which authors are taught right from the start in a module called ‘Decolonising the Bookshelf’, with a particular focus on race and ethnicity. But these same ideas return in the second year of the BA English degree with ‘Representing Class: Stories and Conflict’ and in the third year with ‘Bodies and Performances: Sex and Gender’, and in this way students are able, if they choose, to fully develop their understanding of literary expression, representation and recognition across a broad range of literary texts",
     "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
-    "Fees and Funding":"UK-  Full Time: £9,250, International, Full Time: £17,250",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
     "Key Facts":[
         {"Level":"Undergraduate",
         "Duration":"3 Years Full Time",
@@ -32,15 +76,381 @@
 
 },
 
+
 {
-    "Subejet Arae":"Computing",
-    "Course Name":"Computer Science",
-    "Course Details":"Our Computer Science BSc (Hons) degree gives you the opportunity to explore different ideas and develop innovative solutions to current issues in the computing industry.",
+    "Subejet Arae":"Sport Science",
+    "Course Name":"Sport Coaching",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
     "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
-    "Fees and Funding":"UK-  Full Time: £9,250, International, Full Time: £17,250",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
     "Key Facts":[
         {"Level":"Undergraduate",
         "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+{
+    "Subejet Arae":"Music and Art",
+    "Course Name":"Acting (BA)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Undergraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+{
+    "Subejet Arae":"Media and Journalism",
+    "Course Name":"Film and Screen Study (BA)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Undergraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+
+{
+    "Subejet Arae":"Music and Art",
+    "Course Name":"Acting (BA)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Undergraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+
+{
+    "Subejet Arae":"Accounting and Finance",
+    "Course Name":"Acounting and Finance (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Undergraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+
+{
+    "Subejet Arae":"Avertising and Marketing",
+    "Course Name":"Digital Marketing (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Postgraduate",
+        "Duration":"3 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+
+{
+    "Subejet Arae":"Biological Science",
+    "Course Name":"Pharmacology (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Postgraduate",
+        "Duration":"1 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+{
+    "Subejet Arae":"Biological Science",
+    "Course Name":"Pharmacology (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Postgraduate",
+        "Duration":"1 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+
+{
+    "Subejet Arae":"Engineering",
+    "Course Name":"Lift Engineering (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Postgraduate",
+        "Duration":"1 Years Full Time",
+        "Starting": "September",
+        "Location":"WaterSide Campus"
+    }
+
+    ]
+
+},
+
+
+
+{
+    "Subejet Arae":"Leather and Fashion",
+    "Course Name":"Leather Technology (MSC)",
+    "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+    "Entry Requirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+ 
+    "Fees and Funding":[
+        {
+            "UK":{
+            
+                "Full Time": " £9,250",
+                "International Full Time": "£17,250" 
+            },
+            "US":{"Full":"$11398.91",
+                "International":"$21257.43"
+
+            },
+            "EURO":{
+                " Full Time": "€10521.00",
+                "International":"€19961.94"
+            }
+        }
+       
+    ],
+    
+    "Key Facts":[
+        {"Level":"Postgraduate",
+        "Duration":"1 Years Full Time",
         "Starting": "September",
         "Location":"WaterSide Campus"
     }
@@ -48,7 +458,6 @@
     ]
 
 }
-
 
 ]
 
