@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration-style: solid;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+#course-table {
+  width: 80%;
+  margin: auto;
+  padding-top: 10;
+  border-collapse: collapse;
+}
+
+#course-table th,
+#course-table td {
+  border: 1px solid rgba(0, 0, 0, 0.418);
+  padding: 10px;
+  text-align: left;
+}
+
+#course-table th {
+  background-color: blue;
+  color:black;
+}

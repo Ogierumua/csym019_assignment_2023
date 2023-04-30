@@ -1,0 +1,60 @@
+[
+    {
+        "Images":"coursesImages/computersci.png",
+        "SubjectArea":"Computing",
+        "CourseName":"Computer Science (Bsc)",
+        "CourseDetails":   "Year 1, During the first year of your  computer science degree, you will study common computer science modules such as Computer Systems, Software Engineering Fundamentals, Mathematics,  Computer Science, Web Development, Problem Solving & Programming. These will help you build a foundation base around more advanced topics  subsequent years ",
+        "Level":"Undergraduate",
+        "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+        "FeesandFunding": "International Full Time £17,250",
+        "KeyFacts": "Duration: 1Year, Location: Waterside Campus"
+     },
+
+     {
+        "Images":"coursesImages/humanities.png",
+        "SubjectArea":"Humanities",
+        "CourseName":"English (BA)",
+        "CourseDetails":   "The modules on this English BA (Hons) course are organised into distinctive strands that allow students the chance to develop their knowledge from year to year and apply skills they have learned across different stages. For example, in a strand called Rethinking Identities, we raise the question of which authors are taught right from the start in a module called Decolonising the Bookshelf, with a particular focus on race and ethnicity. But these same ideas return in the second year of the BA English degree with Representing Class: Stories and Conflict and in the third year with Bodies and Performances: Sex and Gender, and in this way students are able, if they choose, to fully develop their understanding of literary expression, representation and recognition across a broad range of literary texts",
+        "Level":"Undergraduate",
+        "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+        "FeesandFunding": "International Full Time £17,250",
+        "KeyFacts": "Duration: 1Year, Location: Waterside Campus"
+     },
+
+     {
+        "Images":"coursesImages/sportscience.png",
+        "SubjectArea":"Sport Science",
+        "CourseName":"Sport Coaching (Bsc)",
+        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "Level":"Undergraduate",
+        "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+        "FeesandFunding": "International Full Time £17,250",
+        "KeyFacts": "Duration: 1Year, Location: Waterside Campus"
+     },
+
+     {
+        "Images":"coursesImages/musicandart.png",
+        "SubjectArea":"Music and Art",
+        "CourseName":"Acting (BA)",
+        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "Level":"Undergraduate",
+        "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+        "FeesandFunding": "International Full Time £17,250",
+        "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
+     },
+
+     {
+        "Images":"coursesImages/media.png",
+        "SubjectArea":"Media and Journalism",
+        "CourseName":"Film and Screen Study (BA)",
+        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "Level":"Undergraduate",
+        "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+        "FeesandFunding": "International Full Time £17,250",
+        "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
+     }
+
+
+
+]
+    
