@@ -4,7 +4,7 @@ fetch("course.json")
     })
 
     .then(function(courses) {
-        let placeholder = document.querySelector("#data-output");
+        let placeholder = document.querySelector("#data_output");
         let out = "";
         for (let course of courses) {
             out += `

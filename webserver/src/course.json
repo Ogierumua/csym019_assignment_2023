@@ -22,10 +22,10 @@
      },
 
      {
-        "Images":"coursesImages/sportscience.png",
+        "Images":"coursesImages/sportssci.png",
         "SubjectArea":"Sport Science",
         "CourseName":"Sport Coaching (Bsc)",
-        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "CourseDetails":"The coaching process,developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning analysis are at the core of our Sport Coaching degree. As well as performance analysis and work placement modules.",
         "Level":"Undergraduate",
         "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
         "FeesandFunding": "International Full Time £17,250",
@@ -36,7 +36,7 @@
         "Images":"coursesImages/musicandart.png",
         "SubjectArea":"Music and Art",
         "CourseName":"Acting (BA)",
-        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "CourseDetails":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
         "Level":"Undergraduate",
         "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
         "FeesandFunding": "International Full Time £17,250",
@@ -47,12 +47,66 @@
         "Images":"coursesImages/media.png",
         "SubjectArea":"Media and Journalism",
         "CourseName":"Film and Screen Study (BA)",
-        "Course Details":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+        "CourseDetails":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
         "Level":"Undergraduate",
         "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
         "FeesandFunding": "International Full Time £17,250",
         "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
-     }
+     },
+
+     {
+      "Images":"coursesImages/Accounting.png",
+      "SubjectArea":"Accounting and Finance",
+      "CourseName":"Acounting and Finance (MSC)",
+      "CourseDetails":"The coaching process, pedagogy, developing your own coaching philosophy, coaching styles, effective coaching approaches, long term athlete development and comprehensive planning/needs analysis are at the core of our Sport Coaching degree. As well as performance analysis, coaching theory and work placement modules.",
+      "Level":"Postgraduate",
+      "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+      "FeesandFunding": "International Full Time £17,250",
+      "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
+   },
+   {
+      "Images":"coursesImages/digitalmkt.png",
+      "SubjectArea":"Avertising and Marketing",
+      "CourseName":"Digital Marketing (MSC)",
+      "CourseDetails":"This course explores the exciting and dynamic world of digital marketing. You will investigate the debates around the Virtual Reality, the Metaverse, Artificial Intelligence, Digital Transformation and Digital skills that are framing the world around us.Accredited by the Digital Marketing Institute (DMI), this Masters will also allow you to be certified as a Certified Digital Marketing Professional. Membership of the DMI is Included in the course fee and gives you access to a wealth of study materials and rich content via the DMI student online portal.",
+      "Level":"Postgraduate",
+      "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+      "FeesandFunding": "International Full Time £17,250",
+      "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
+   },
+   {
+      "Images":"coursesImages/molecular.png",
+      "SubjectArea":"Biological Science",
+      "CourseName":"Molecular Bioscience(MSC)",
+      "CourseDetails":"The Molecular Bioscience MSc programme supports you to develop your knowledge and understanding of key aspects of your chosen pathway and is aimed at individuals that have a prior knowledge of, or keen interest in, Molecular Medicine or Genetics and Genomics.",
+      "Level":"Postgraduate",
+      "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+      "FeesandFunding": "International Full Time £17,250",
+      "KeyFacts": "Duration: 1Year, Location: Waterside Campus, Start Time: September & January"
+   },
+   {
+      "Images":"coursesImages/lift.png",
+      "SubjectArea":"Engineering",
+      "CourseName":"Lift Engineering (MSC)",
+      "CourseDetails": "On this lift engineer course, we aim to provide you with a detailed, academic study of lift engineering and related management issues, together with a higher level qualification for persons employed in lift engineering and allied industries.",
+      "Level":"Postgraduate",
+      "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+      "FeesandFunding": "International Full Time £17,250",
+      "KeyFacts": "Duration: 1Year, Location: Waterside Campus"
+   },
+   {
+      "Images":"coursesImages/leather.png",
+      "SubjectArea":"Leather and Fashion",
+      "CourseName":"Leather Technology (MSC)",
+      "CourseDetails": "Our unique Leather Technology (Professional) MSc will give you the opportunity to enhance your technical skills. We encourage you to develop intellectual creativity and we will provide you with the skills you need to research advanced technologies",
+      "Level":"Postgraduate",
+      "EntryRequirement":"Applicants must be 18 years old by the 2nd month of commencing pre-registration nursing programmes and all applicants must have 10 years of consecutive education",
+      "FeesandFunding": "International Full Time £17,250",
+      "KeyFacts": "Duration: 1Year, Location: Waterside Campus"
+   }
+
+
+
 
 
 
