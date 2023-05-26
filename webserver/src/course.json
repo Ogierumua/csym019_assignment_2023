@@ -1,6 +1,6 @@
 [
     {
-        "Images":"coursesImages/computersci.png",
+        "Images":"coursesImages/computersci.png" ,
         "SubjectArea":"Computing",
         "CourseName":"Computer Science (Bsc)",
         "CourseDetails":   "Year 1, During the first year of your  computer science degree, you will study common computer science modules such as Computer Systems, Software Engineering Fundamentals, Mathematics,  Computer Science, Web Development, Problem Solving & Programming. These will help you build a foundation base around more advanced topics  subsequent years ",

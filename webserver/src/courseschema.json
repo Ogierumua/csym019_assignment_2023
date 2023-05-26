@@ -1,322 +1,44 @@
 {
-    "$schema": "http://json-schema.org/draft-06/schema#",
-    "$ref": "#/definitions/Welcome",
-    "definitions": {
-        "Welcome": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "University_Courses": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/UniversityCourse"
-                    }
-                }
-            },
-            "required": [
-                "University_Courses"
-            ],
-            "title": "Welcome"
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Generated schema for Root",
+    "type": "array",
+    "items": {
+      "type": "object",
+      "properties": {
+        "Images": {
+          "type": "string"
         },
-        "UniversityCourse": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Undergraduate Degree": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/UndergraduateDegree"
-                    }
-                },
-                "Post Graduate Degree": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/PostGraduateDegree"
-                    }
-                }
-            },
-            "required": [],
-            "title": "UniversityCourse"
+        "SubjectArea": {
+          "type": "string"
         },
-        "PostGraduateDegree": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Subejet Arae": {
-                    "type": "string"
-                },
-                "Course Name": {
-                    "type": "string"
-                },
-                "Course Details": {
-                    "type": "string"
-                },
-                "Entry Requirement": {
-                    "type": "string"
-                },
-                "Fees and Funding": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/FeesAndFunding"
-                    }
-                },
-                "Key Facts": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/KeyFact"
-                    }
-                }
-            },
-            "required": [
-                "Course Details",
-                "Course Name",
-                "Entry Requirement",
-                "Fees and Funding",
-                "Key Facts",
-                "Subejet Arae"
-            ],
-            "title": "PostGraduateDegree"
+        "CourseName": {
+          "type": "string"
         },
-        "FeesAndFunding": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "UK": {
-                    "$ref": "#/definitions/Uk"
-                },
-                "US": {
-                    "$ref": "#/definitions/Us"
-                },
-                "EURO": {
-                    "$ref": "#/definitions/Euro"
-                }
-            },
-            "required": [
-                "EURO",
-                "UK",
-                "US"
-            ],
-            "title": "FeesAndFunding"
-        },
-        "Euro": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                " Full Time": {
-                    "$ref": "#/definitions/FullTime"
-                },
-                "International": {
-                    "$ref": "#/definitions/EUROInternational"
-                }
-            },
-            "required": [
-                " Full Time",
-                "International"
-            ],
-            "title": "Euro"
-        },
-        "Uk": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Full Time": {
-                    "$ref": "#/definitions/FullTimeEnum"
-                },
-                "International Full Time": {
-                    "$ref": "#/definitions/InternationalFullTime"
-                }
-            },
-            "required": [
-                "Full Time",
-                "International Full Time"
-            ],
-            "title": "Uk"
-        },
-        "Us": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Full": {
-                    "$ref": "#/definitions/Full"
-                },
-                "International": {
-                    "$ref": "#/definitions/USInternational"
-                }
-            },
-            "required": [
-                "Full",
-                "International"
-            ],
-            "title": "Us"
-        },
-        "KeyFact": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Level": {
-                    "$ref": "#/definitions/Level"
-                },
-                "Duration": {
-                    "$ref": "#/definitions/Duration"
-                },
-                "Starting": {
-                    "$ref": "#/definitions/Starting"
-                },
-                "Location": {
-                    "$ref": "#/definitions/Location"
-                }
-            },
-            "required": [
-                "Duration",
-                "Level",
-                "Location",
-                "Starting"
-            ],
-            "title": "KeyFact"
-        },
-        "UndergraduateDegree": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Subejet Arae": {
-                    "type": "string"
-                },
-                "Course Name": {
-                    "type": "string"
-                },
-                "Course Details": {
-                    "$ref": "#/definitions/CourseDetailsUnion"
-                },
-                "Entry Requirement": {
-                    "type": "string"
-                },
-                "Fees and Funding": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/FeesAndFunding"
-                    }
-                },
-                "Key Facts": {
-                    "type": "array",
-                    "items": {
-                        "$ref": "#/definitions/KeyFact"
-                    }
-                }
-            },
-            "required": [
-                "Course Details",
-                "Course Name",
-                "Entry Requirement",
-                "Fees and Funding",
-                "Key Facts",
-                "Subejet Arae"
-            ],
-            "title": "UndergraduateDegree"
-        },
-        "CourseDetailsClass": {
-            "type": "object",
-            "additionalProperties": false,
-            "properties": {
-                "Year 1": {
-                    "type": "string"
-                },
-                "Year 2": {
-                    "type": "string"
-                },
-                "Year 3": {
-                    "type": "string"
-                }
-            },
-            "required": [
-                "Year 1",
-                "Year 2",
-                "Year 3"
-            ],
-            "title": "CourseDetailsClass"
-        },
-        "CourseDetailsUnion": {
-            "anyOf": [
-                {
-                    "$ref": "#/definitions/CourseDetailsClass"
-                },
-                {
-                    "type": "string"
-                }
-            ],
-            "title": "CourseDetailsUnion"
-        },
-        "FullTime": {
-            "type": "string",
-            "enum": [
-                "€10521.00"
-            ],
-            "title": "FullTime"
-        },
-        "EUROInternational": {
-            "type": "string",
-            "enum": [
-                "€19961.94"
-            ],
-            "title": "EUROInternational"
-        },
-        "FullTimeEnum": {
-            "type": "string",
-            "enum": [
-                " £9,250"
-            ],
-            "title": "FullTimeEnum"
-        },
-        "InternationalFullTime": {
-            "type": "string",
-            "enum": [
-                "£17,250"
-            ],
-            "title": "InternationalFullTime"
-        },
-        "Full": {
-            "type": "string",
-            "enum": [
-                "$11398.91"
-            ],
-            "title": "Full"
-        },
-        "USInternational": {
-            "type": "string",
-            "enum": [
-                "$21257.43"
-            ],
-            "title": "USInternational"
-        },
-        "Duration": {
-            "type": "string",
-            "enum": [
-                "1 Years Full Time",
-                "3 Years Full Time"
-            ],
-            "title": "Duration"
+        "CourseDetails": {
+          "type": "string"
         },
         "Level": {
-            "type": "string",
-            "enum": [
-                "Postgraduate",
-                "Undergraduate"
-            ],
-            "title": "Level"
+          "type": "string"
         },
-        "Location": {
-            "type": "string",
-            "enum": [
-                "WaterSide Campus"
-            ],
-            "title": "Location"
+        "EntryRequirement": {
+          "type": "string"
         },
-        "Starting": {
-            "type": "string",
-            "enum": [
-                "September and January",
-                "September"
-            ],
-            "title": "Starting"
+        "FeesandFunding": {
+          "type": "string"
+        },
+        "KeyFacts": {
+          "type": "string"
         }
+      },
+      "required": [
+        "Images",
+        "SubjectArea",
+        "CourseName",
+        "CourseDetails",
+        "Level",
+        "EntryRequirement",
+        "FeesandFunding",
+        "KeyFacts"
+      ]
     }
-}
+  }

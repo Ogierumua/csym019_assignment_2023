@@ -9,7 +9,7 @@ fetch("course.json")
         for (let course of courses) {
             out += `
         <tr>
-        <td> <img src = "${course.Images}"> </td>
+        <td> <img src = "${course.Images}" width="50px"> </td>
         <td> ${course.SubjectArea} </td>
         <td> ${course.CourseName} </td>
         <td> ${course.CourseDetails} </td>

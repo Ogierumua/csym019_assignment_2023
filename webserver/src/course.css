@@ -5,6 +5,15 @@ body{
   margin: 70px;
   font-family: Arial, Helvetica, sans-serif;
 }
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: #0f0f0f17;
+  text-align: center;
+  font-weight: 100;
+  
+ 
+}
 .table{
   max-width: 1400px;
   border: 1px solid #b7c8ca;
@@ -21,6 +30,7 @@ body{
   color: #444;
   white-space: nowrap;
   border-collapse: collapse;
+  text-align: justify;
 }
 table>thead{
   background-color: #9ac9cf;
@@ -32,6 +42,7 @@ table>thead th{
 }
 #table_course th, #table_course td{
   border: 1px solid #00000017;
+  text-align: justify;
 }
 table>tbody>tr>td>img{
   display: inline-block;
