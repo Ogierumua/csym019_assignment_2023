@@ -16,7 +16,7 @@ return new class extends Migration
             $table->uuid();
             $table->string('subject_area');
             $table->string('course_name');
-            $table->text('course_details');
+            $table->string('course_details');
             $table->string('level');
             $table->text('entry_requirement');
             $table->string('location');

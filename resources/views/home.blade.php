@@ -82,9 +82,16 @@
                                                             >
                                                                 Business Management and Entrepreneurship
                                                             </option>
-                                                            <option value="Human Resource Management"> Human Resource Management</option>
-                                                            <option value="Computer Science"> Computer Science </option>
+                                                            <option value="Human Resource Management"> Humananities</option>
+                                                            <option value="Fashion and Leather"> Fashion and Leather</option>
                                                             <option value="Music and Arts"> Music and Arts</option>
+                                                            <option value="Sport Science"> Sport Science</option>
+                                                            <option value="Media and Jornalism"> Media and Journalism</option>
+                                                            <option value="Account and Finance"> Account and Finance</option>
+                                                            <option value="Advertising and Marketing"> Advertising and Marketing</option>
+                                                            <option value="Engineering"> Engineering</option>
+
+                                                            
                                                         </select>
                                                     </div>
                                                     <!--Level section-->
